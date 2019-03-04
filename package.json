@@ -1,0 +1,26 @@
+{
+  "name": "LIRI-App",
+  "version": "1.0.0",
+  "description": "DU Coding bootcamp week 11 homework",
+  "main": "key.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chononhuu/LIRI-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chononhuu/LIRI-App/issues"
+  },
+  "homepage": "https://github.com/chononhuu/LIRI-App#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0",
+    "moments": "0.0.2",
+    "node-spotify-api": "^1.0.7"
+  }
+}
